@@ -1,0 +1,6 @@
+把holomosconf文件夹放到C盘根目录
+holmosconf文件夹内容介绍
+driverServers文件夹 ：放各个浏览器的driver
+autoItScripts文件夹:放autoit的上传下载脚本
+holmosConf.properties文件：holmos的配置
+log4j.properties文件：log4j的配置
